@@ -24,11 +24,11 @@ The total stock volume of the stock.
 CONSIDERATIONS 
 
 
-Use the sheet alphabetical_testing.xlsx while developing your code. This data set is smaller and will allow you to test faster. Your code should run on this file in less than 3 to 5 minutes.
+I used  the sheet alphabetical_testing.xlsx while developing your code. This data set is smaller and will allow you to test faster. Your code should run on this file in less than 3 to 5 minutes.
 
 
-Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with one click of a button.
+I made  sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with one click of a button.
 
 
-S
+
 
